@@ -52,12 +52,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" alt="Loading..." width="50" />
-</p>
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 22px; font-weight: 500;">
+ 
 
-</p>
+
+
 
 
