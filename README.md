@@ -10,11 +10,11 @@
 
 <!-- Banner ou imagem de boas-vindas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Raphael%20Barros&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=160&section=header&text=Raphael%20Barros&fontSize=40&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  
 </p>
 
 ---
