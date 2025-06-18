@@ -1,4 +1,4 @@
-## Oii eu sou o **Raphael Barros** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** 
+## Oi, Eu sou o **Raphael Barros** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** 
 
 
 
