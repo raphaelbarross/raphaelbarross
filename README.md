@@ -1,22 +1,11 @@
 
 
 
+## Olá, eu sou o Raphael Barros 👋
 
-
-
-
-
-
-<!-- Banner ou imagem de boas-vindas -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=160&section=header&text=Raphael%20Barros&fontSize=40&fontAlign=50&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  
-</p>
-
----
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Iniciante na programação com foco em desenvolvimento Full Stack  
+🚀 Em busca de aprendizado constante e crescimento na área de tecnologia  
 
 ##  Sobre mim
 
@@ -45,9 +34,10 @@
 ---
 
 ##  Contato  
-- 📧 finick021@gmail.com  
-- 🔗 [(https://linkedin.com/in/raphaelbarros)  ](https://www.linkedin.com/in/raphael-barross/)
-- 💻 [GitHub](https://github.com/raphaelbarross)https://github.com/raphaelbarross
+- 📧 <a href = "mailto:finick021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+- 🔗 <a href=(https://www.linkedin.com/in/raphael-barross/) target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+
 
 ---
 
