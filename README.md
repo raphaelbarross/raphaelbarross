@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=150&section=header&fontColor=aaaaa" />
 
-### Olá, eu sou o Raphael Barros 👋
+### Olá, eu sou o Raphael Barros  👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Iniciante na programação com foco em desenvolvimento Full Stack  
