@@ -2,9 +2,9 @@
 
 ### Olá, eu sou o Raphael Barros  👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Iniciante na programação com foco em desenvolvimento Full Stack  
-🚀 Em busca de aprendizado constante e crescimento na área de tecnologia  
+ Estudante de Análise e Desenvolvimento de Sistemas  
+ Iniciante na programação com foco em desenvolvimento Full Stack  
+ Em busca de aprendizado constante e crescimento na área de tecnologia  
 
 ### Sobre mim
 
