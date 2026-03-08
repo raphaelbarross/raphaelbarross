@@ -34,7 +34,7 @@ Em busca do primeiro estágio na área de tecnologia
 
 ## Contato
 
-<a href="mailto:finick021@gmail.com">
+<a href="mailto:raphaelbarros814@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
