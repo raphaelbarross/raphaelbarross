@@ -28,16 +28,9 @@ Em busca do primeiro estágio na área de tecnologia
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![POO](https://img.shields.io/badge/POO-00599C?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
 ---
 
 ## Contato
-
-<a href="mailto:raphaelbarros814@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
 <a href="https://www.linkedin.com/in/raphael-barross/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
